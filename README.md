@@ -9,4 +9,4 @@ When you leave, you will have the practical knowledge and comfort level to use S
 
 ***********************
 
-The files needed to create the demo database can be found in the Superheroes Demo DB Setup directory.
+The files needed to create the demo database can be found in the Superheroes Demo DB Setup directory:(https://github.com/DebtheDBA/SQL_Presentations/tree/main/Superhero%20Demo%20DB%20Setup)
